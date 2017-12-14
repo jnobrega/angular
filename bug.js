@@ -1,1 +1,1 @@
-var bug = 3/0;
+var bug = bug + 3 bug;
